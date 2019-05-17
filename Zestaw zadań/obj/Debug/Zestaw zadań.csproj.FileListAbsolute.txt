@@ -1,0 +1,6 @@
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/bin/Debug/Zestaw_zadań.exe
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/bin/Debug/Zestaw_zadań.pdb
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/obj/Debug/Zestaw zadań.csprojAssemblyReference.cache
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/obj/Debug/Zestaw zadań.csproj.CoreCompileInputs.cache
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/obj/Debug/Zestaw_zadań.exe
+/Users/kamilrzeszutek/Documents/Programowanie/C#/Zestaw zadań/Zestaw zadań/obj/Debug/Zestaw_zadań.pdb
