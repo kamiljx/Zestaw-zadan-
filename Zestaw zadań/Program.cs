@@ -16,6 +16,7 @@ namespace Zestaw_zadań
             Console.WriteLine(GetMaxValue(tab));
             Console.WriteLine(GetMinValue(tab));
             Console.WriteLine(MaxParityIndex(tab));
+            Console.WriteLine(WhereIsMaxValue(tab));
         }
 
         private static int GetMaxValue(int[] tab)
@@ -45,6 +46,19 @@ namespace Zestaw_zadań
             return maxParity;
 
         }
-        
+
+        public static int WhereIsMaxValue(int[] tab)
+        {
+            int index = 0;
+            int max = tab[0];
+            for (int i = 0; i < tab.Length; i++)
+                if (max < tab[i])
+                {
+                    max = tab[i];
+                    index = i;
+                }
+
+            return index;
+        }
     }
 }
